@@ -1,5 +1,7 @@
 # POC Microsserviços mensageria - node + kafka
 
+Projetos bem simples apenas para estudo de comunicação de microsserviços
+utilizando kafka
 
 
 # Rodar projetos:
